@@ -1,7 +1,7 @@
 ## Hi, I'm Shoaib <3
 
-👨‍🎓Computer science student at Adamas University.<br/>
-🎮 Passionate Game Dev<br/>
+👨‍🎓Computer science student.<br/>
+🎮 Passionate Game Developer<br/>
 🕹️ Unreal Engine 5<br/>
 📧 My linkedIn --> https://www.linkedin.com/in/shoaib-akhtar-connect/
 
