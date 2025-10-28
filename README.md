@@ -1,5 +1,5 @@
 ## Hi, I'm Shoaib <3
-[![Banner] (https://x.com/akhtarshoaib24/status/1982758042937799081/photo/1)]
+[![Banner] (https://pbs.twimg.com/media/G4QqyMOXoAAiKZR?format=jpg&name=large)]
 👨‍🎓Computer science student.<br/>
 🎮 Passionate Game Developer<br/>
 🕹️ Unreal Engine 5<br/>
