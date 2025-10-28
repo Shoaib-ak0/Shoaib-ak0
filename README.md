@@ -1,5 +1,5 @@
 ## Hi, I'm Shoaib <3
-[![Banner] (https://pbs.twimg.com/media/G4QqyMOXoAAiKZR?format=jpg&name=large)]
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/d2574f0c-7325-46f8-bc96-3eefc6606351" /><br/>
 👨‍🎓Computer science student.<br/>
 🎮 Passionate Game Developer<br/>
 🕹️ Unreal Engine 5<br/>
