@@ -47,10 +47,10 @@ Currently focused on strengthening **DSA, OOP, and system fundamentals** alongsi
 ---
 
 ## 📫 Connect With Me
-- GitHub: _You’re already here_ 🙂
-- Portfolio: _Coming soon_
-- LinkedIn: _Add when ready_
-
+- 💼 **LinkedIn**: https://www.linkedin.com/in/shoaib-akhtar-connect  
+- 🐦 **X (Twitter)**: https://x.com/akhtarshoaib24  
+- 🌐 **Portfolio**: Coming soon  
+- 🧑‍💻 **GitHub**: You’re already here 🙂
 ---
 
 ⭐ *Always learning, building, and leveling up.*
