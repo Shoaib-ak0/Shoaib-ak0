@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## ❗About Me ❗
 I am a Computer Science student focused on building **scalable, user-centric web applications** with a solid understanding of **data structures, algorithms, and object-oriented design**.
 
 My primary interests lie in **frontend engineering and full-stack development**, where I enjoy translating ideas into clean, performant interfaces using modern JavaScript frameworks.
