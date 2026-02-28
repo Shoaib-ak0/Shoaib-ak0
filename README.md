@@ -37,14 +37,4 @@
 - Building **full-stack portfolio projects**
 - Gameplay programming in **Unreal Engine 5** (secondary)
 
----
 
-## 📫 Connect With Me
-- 💼 **LinkedIn**: https://www.linkedin.com/in/shoaib-akhtar-connect  
-- 🐦 **X (Twitter)**: https://x.com/akhtarshoaib24  
-- 🌐 **Portfolio**: Coming soon  
-- 🧑‍💻 **GitHub**: You’re already here 🙂
-
----
-
-⭐ *Focused on fundamentals, building real projects, and growing as an engineer.*
